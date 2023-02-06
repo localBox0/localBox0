@@ -1,5 +1,29 @@
 ## Andrew Syniachenko - Junior Frontend Developer (React)
 
+
+### ✏️ Long description:
+
+Hi, I am a beginner frontend developer on React. Currently, I am actively looking for a job where I can bring benefit and become a better specialist.
+
+Work with and continue to learn React, Typescript, Redux and a lot of other things everyday.
+After completing various courses, I gained the skills to create projects from scratch and make them beautiful (a little bit).
+
+I not only get satisfaction from the result, but also accept monotonous long hours of work. This is the only way to become better at your passion.
+
+### 🖥️ About my works:
+
+You can see examples of my work in the repositories, each project has been deployed to github-pages.
+
+Also, my early projects are documented in my certification at freecodecamp.org (you can see the certification link in the list below).
+
+An example of a commercial project - ⚡ [Link to project](https://teplapidloga-e.com.ua) ⚡ :
+
+* The website was created, all the content and design were collected by myself.
+* The PHP feedback form was created and connected in.
+* Build was uploaded to the server.
+
+---
+
 ### Tech stack:
 
 <div>
@@ -26,7 +50,7 @@
 
 ---
 
-### Complited courses:
+### 🧠 Complited courses:
 
 | Courses:                                                                            | Author / Certification:                            |
 | ------------------------------------------------------------------------------------| :------------------------------------------------: |
@@ -45,3 +69,12 @@
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/local_band/badges/large)
+
+---
+
+## 🤝 Contact me:
+
+<p align="left"> <a href="https://github.com/localband" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="52" height="52" /></a> <a href="https://linkedin.com/in/andrew-syniachenko/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="52" height="52" /></a></p>
+
+Or You can send me [e-mail](mailto:agvrideteam@gmail.com) ✉️
+
