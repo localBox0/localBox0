@@ -62,6 +62,8 @@ An example of a commercial project - ⚡ [Link to project](https://teplapidloga-
 | udemy.com - Intensive immersion in JS                                               | Ivan Petrychenko Udemy.com                         |
 | FrilancerLifeStyle - Advanced JS (+DOM)                                             | Yevhen Andrikanych |
 | React Way of Samurai 1.0-2.0 - Creating Social Network                              | Dmitry Kuzyuberdin Software Architect IT-INKUBATOR |
+| www.englishdom.com/ - English for IT                                                | Tatiana Fayzulina / [Certificated]
+(https://www.englishdom.com/ua/cn/#0e607136)                                                                                               |
 
 
 ---
