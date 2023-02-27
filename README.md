@@ -3,7 +3,7 @@
 
 ### ✏️ Long description:
 
-Hi, I am a beginner frontend developer on React. Currently, I am actively looking for a job where I can bring benefit and become a better specialist.
+Hi, I'm a frontend developer on React. Currently, I am actively looking for a job where I can bring benefit and become a better specialist.
 
 Work with and continue to learn React, Typescript, Redux and a lot of other things everyday.
 After completing various courses, I gained the skills to create projects from scratch and make them beautiful (a little bit).
