@@ -69,7 +69,7 @@ An example of a commercial project - ⚡ [Link to project](https://teplapidloga-
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/local_band/badges/large)
+![codewars](https://www.codewars.com/users/localBox0/badges/large)
 
 ---
 
