@@ -50,7 +50,7 @@ An example of a commercial project - ⚡ [Link to project](https://teplapidloga-
 
 ---
 
-### 🧠 Complited courses:
+### 🧠 Completed courses:
 
 | Courses:                                                                            | Author / Certification:                            |
 | ------------------------------------------------------------------------------------| :------------------------------------------------: |
