@@ -1,6 +1,3 @@
-## Andrew Syniachenko - Junior Frontend Developer (React)
-
-
 ### ✏️ Long description:
 
 Hi, I'm a frontend developer on React. Currently, I am actively looking for a job where I can bring benefit and become a better specialist.
